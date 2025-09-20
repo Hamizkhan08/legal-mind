@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+chromadb
+PyPDF2
+python-docx
+scikit-learn
+numpy
