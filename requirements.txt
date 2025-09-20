@@ -1,9 +1,11 @@
-streamlit
+streamlit==1.28.0
 sentence-transformers==2.2.2
 transformers==4.21.3
-torch
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+numpy
+scikit-learn
 PyPDF2
 python-docx
-scikit-learn
-numpy
-faiss-cpu
+faiss-cpu==1.7.4
