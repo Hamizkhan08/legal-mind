@@ -1,3 +1,8 @@
+gradio
+transformers
+torch
+numpy
+pandas
 streamlit
 torch
 transformers
