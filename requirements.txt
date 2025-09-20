@@ -1,13 +1,9 @@
-gradio
-transformers
-torch
-numpy
-pandas
 streamlit
+sentence-transformers==2.2.2
+transformers==4.21.3
 torch
-transformers
-chromadb
 PyPDF2
 python-docx
 scikit-learn
 numpy
+faiss-cpu
